@@ -1,0 +1,44 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+body {
+    background: orange;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.Antropogeniczne {
+    display: flex;
+    justify-content: center;
+}
+.Inne {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Obraz {
+    display: flex;
+    justify-content: center;
+}
+
+.Obraz1 {
+    display: flex;
+    justify-content: center;
+}
+
+.Naturalne {
+    display: flex;
+    justify-content: center;
+
+}
